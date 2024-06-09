@@ -5,7 +5,7 @@
 *.*~
 *.swp
 
-# Node.js package manager
+# Node.js package managet
 node_modules
 npm-debug.log
 dist
